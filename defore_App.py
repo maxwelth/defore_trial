@@ -8,7 +8,7 @@ import pandas as pd
 
 
 coll1,coll2 = st.columns([1,1])
-coll1.image(Image.open(r"./sirclo_logo.png"))
+coll1.image(Image.open(r"./resources/sirclo_logo.png"))
 
 st.title("Demand Forecasting Project")
 
