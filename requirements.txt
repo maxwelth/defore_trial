@@ -1,6 +1,6 @@
 cmdstanpy==1.0.4
 hijri-converter==2.2.4
-matplotlib==3.2.2
+matplotlib==3.4.2
 numpy==1.21.6
 pandas==1.3.5
 Pillow==8.0.1
